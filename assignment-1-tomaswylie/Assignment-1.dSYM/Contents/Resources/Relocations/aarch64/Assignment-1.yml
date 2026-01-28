@@ -1,0 +1,15 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/tomas/oop_in_cpp/assignments/assignment-1-tomaswylie/Assignment-1'
+relocations:
+  - { offsetInCU: 0x531C, offset: 0x531C, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0x16FB0, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x5434, offset: 0x5434, size: 0x8, addend: 0x0, symName: _flag, symObjAddr: 0x16FB1, symBinAddr: 0x100008001, symSize: 0x0 }
+  - { offsetInCU: 0x544B, offset: 0x544B, size: 0x8, addend: 0x0, symName: _valid, symObjAddr: 0x528, symBinAddr: 0x100004090, symSize: 0x0 }
+  - { offsetInCU: 0x555D, offset: 0x555D, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_Assignment_1.cpp, symObjAddr: 0x754, symBinAddr: 0x100003B9C, symSize: 0x1C }
+  - { offsetInCU: 0x557E, offset: 0x557E, size: 0x8, addend: 0x0, symName: __Z41__static_initialization_and_destruction_0ii, symObjAddr: 0x6F4, symBinAddr: 0x100003B3C, symSize: 0x60 }
+  - { offsetInCU: 0x558D, offset: 0x558D, size: 0x8, addend: 0x0, symName: __ZSteqIcSt11char_traitsIcESaIcEEbRKNSt7__cxx1112basic_stringIT_T0_T1_EEPKS5_, symObjAddr: 0x4F4, symBinAddr: 0x100003B0C, symSize: 0x30 }
+  - { offsetInCU: 0x55E0, offset: 0x55E0, size: 0x8, addend: 0x0, symName: __ZStneIcSt11char_traitsIcESaIcEEbRKNSt7__cxx1112basic_stringIT_T0_T1_EEPKS5_, symObjAddr: 0x4C8, symBinAddr: 0x100003AE0, symSize: 0x2C }
+  - { offsetInCU: 0x563C, offset: 0x563C, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x90, symBinAddr: 0x1000036A8, symSize: 0x438 }
+  - { offsetInCU: 0x56E0, offset: 0x56E0, size: 0x8, addend: 0x0, symName: __Z20check_quantum_numberii, symObjAddr: 0x60, symBinAddr: 0x100003678, symSize: 0x30 }
+  - { offsetInCU: 0x570A, offset: 0x570A, size: 0x8, addend: 0x0, symName: __Z11check_inputi, symObjAddr: 0x0, symBinAddr: 0x100003618, symSize: 0x60 }
+...
